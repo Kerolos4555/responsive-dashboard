@@ -18,6 +18,7 @@ It showcases how a single UI can scale and adjust seamlessly across devices – 
 
 ## 💻 Desktop Screens
 
-![Image](https://github.com/user-attachments/assets/49a33da9-ad0c-462a-ac5d-0293ef2ef24b)
+![Image](https://github.com/user-attachments/assets/ffc77611-3b65-4c57-9f93-07614b9f3bab)
 
-![Image](https://github.com/user-attachments/assets/b529fe03-0581-4049-931b-b064655487a4)
+![Image](https://github.com/user-attachments/assets/2dac72ff-09df-4763-95f8-51815e9ef0cc)
+
